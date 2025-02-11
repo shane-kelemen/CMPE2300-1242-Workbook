@@ -1,0 +1,7 @@
+C:\Users\shanek\source\repos\CollectionBasics\CollectionBasics\bin\Debug\CollectionBasics.exe.config
+C:\Users\shanek\source\repos\CollectionBasics\CollectionBasics\bin\Debug\CollectionBasics.exe
+C:\Users\shanek\source\repos\CollectionBasics\CollectionBasics\bin\Debug\CollectionBasics.pdb
+C:\Users\shanek\source\repos\CollectionBasics\CollectionBasics\obj\Debug\CollectionBasics.csproj.AssemblyReference.cache
+C:\Users\shanek\source\repos\CollectionBasics\CollectionBasics\obj\Debug\CollectionBasics.csproj.CoreCompileInputs.cache
+C:\Users\shanek\source\repos\CollectionBasics\CollectionBasics\obj\Debug\CollectionBasics.exe
+C:\Users\shanek\source\repos\CollectionBasics\CollectionBasics\obj\Debug\CollectionBasics.pdb
