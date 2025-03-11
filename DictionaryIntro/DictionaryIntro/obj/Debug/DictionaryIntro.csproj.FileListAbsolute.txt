@@ -1,0 +1,7 @@
+C:\Users\shanek\source\repos\DictionaryIntro\DictionaryIntro\bin\Debug\DictionaryIntro.exe.config
+C:\Users\shanek\source\repos\DictionaryIntro\DictionaryIntro\bin\Debug\DictionaryIntro.exe
+C:\Users\shanek\source\repos\DictionaryIntro\DictionaryIntro\bin\Debug\DictionaryIntro.pdb
+C:\Users\shanek\source\repos\DictionaryIntro\DictionaryIntro\obj\Debug\DictionaryIntro.csproj.AssemblyReference.cache
+C:\Users\shanek\source\repos\DictionaryIntro\DictionaryIntro\obj\Debug\DictionaryIntro.csproj.CoreCompileInputs.cache
+C:\Users\shanek\source\repos\DictionaryIntro\DictionaryIntro\obj\Debug\DictionaryIntro.exe
+C:\Users\shanek\source\repos\DictionaryIntro\DictionaryIntro\obj\Debug\DictionaryIntro.pdb
