@@ -1,0 +1,6 @@
+C:\Users\shanek\source\repos\InheritanceBasics\SomeLibrary\bin\Debug\SomeLibrary.dll
+C:\Users\shanek\source\repos\InheritanceBasics\SomeLibrary\bin\Debug\SomeLibrary.pdb
+C:\Users\shanek\source\repos\InheritanceBasics\SomeLibrary\obj\Debug\SomeLibrary.csproj.AssemblyReference.cache
+C:\Users\shanek\source\repos\InheritanceBasics\SomeLibrary\obj\Debug\SomeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\shanek\source\repos\InheritanceBasics\SomeLibrary\obj\Debug\SomeLibrary.dll
+C:\Users\shanek\source\repos\InheritanceBasics\SomeLibrary\obj\Debug\SomeLibrary.pdb

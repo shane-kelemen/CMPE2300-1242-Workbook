@@ -1,0 +1,10 @@
+C:\Users\shanek\source\repos\InheritanceBasics\InheritanceBasics\bin\Debug\InheritanceBasics.exe.config
+C:\Users\shanek\source\repos\InheritanceBasics\InheritanceBasics\bin\Debug\InheritanceBasics.exe
+C:\Users\shanek\source\repos\InheritanceBasics\InheritanceBasics\bin\Debug\InheritanceBasics.pdb
+C:\Users\shanek\source\repos\InheritanceBasics\InheritanceBasics\obj\Debug\InheritanceBasics.csproj.AssemblyReference.cache
+C:\Users\shanek\source\repos\InheritanceBasics\InheritanceBasics\obj\Debug\InheritanceBasics.csproj.CoreCompileInputs.cache
+C:\Users\shanek\source\repos\InheritanceBasics\InheritanceBasics\obj\Debug\InheritanceBasics.exe
+C:\Users\shanek\source\repos\InheritanceBasics\InheritanceBasics\obj\Debug\InheritanceBasics.pdb
+C:\Users\shanek\source\repos\InheritanceBasics\InheritanceBasics\bin\Debug\SomeLibrary.dll
+C:\Users\shanek\source\repos\InheritanceBasics\InheritanceBasics\bin\Debug\SomeLibrary.pdb
+C:\Users\shanek\source\repos\InheritanceBasics\InheritanceBasics\obj\Debug\Inherita.07B141D0.Up2Date
