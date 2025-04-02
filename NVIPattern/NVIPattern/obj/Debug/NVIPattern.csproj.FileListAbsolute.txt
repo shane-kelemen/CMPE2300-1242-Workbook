@@ -1,0 +1,7 @@
+C:\Users\shanek\source\repos\NVIPattern\NVIPattern\bin\Debug\NVIPattern.exe.config
+C:\Users\shanek\source\repos\NVIPattern\NVIPattern\bin\Debug\NVIPattern.exe
+C:\Users\shanek\source\repos\NVIPattern\NVIPattern\bin\Debug\NVIPattern.pdb
+C:\Users\shanek\source\repos\NVIPattern\NVIPattern\obj\Debug\NVIPattern.csproj.AssemblyReference.cache
+C:\Users\shanek\source\repos\NVIPattern\NVIPattern\obj\Debug\NVIPattern.csproj.CoreCompileInputs.cache
+C:\Users\shanek\source\repos\NVIPattern\NVIPattern\obj\Debug\NVIPattern.exe
+C:\Users\shanek\source\repos\NVIPattern\NVIPattern\obj\Debug\NVIPattern.pdb
